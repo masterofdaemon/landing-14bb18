@@ -1,0 +1,1 @@
+import{s as e}from"./Cpjfz1ay.js";import"./CiMywUwZ.js";var t=e({open:!1,tariff:`free`}),n={subscribe:t.subscribe,open(e=`free`){t.set({open:!0,tariff:e})},close(){t.set({open:!1,tariff:`free`})}};export{n as t};
